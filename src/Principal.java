@@ -23,6 +23,7 @@ public class Principal {
             }
             else{
                 if (opcion == 1){
+                    //Punto 1
                     System.out.print("Ingrese nombre del Galo: ");
                     String nombreGalo = sc.next();
                     System.out.print("\nIngrese nombre del Romano: ");
